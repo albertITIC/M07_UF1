@@ -1,7 +1,9 @@
 # Author: Albert Penadés Casajús
+
 # Demanar a l’usuari dos valors. Una vegada s’executa el programa, aquest ha de mostrar el resultat (suma, resta, divisió o multiplicació) 
 # per pantalla.
-
+print("Activitat 4: ")
+#Guardo els valors (v) que entri l'usuari per pantalla
 v1 = float(input("Introdueix un valor: "))
 v2 = float(input("Introdueix un segon valor: "))
 
