@@ -5,15 +5,6 @@
 # Exemple: Quatre Camins passaria a Caatre Qumins.
 
 print("Activitat 9: ")
-# nParaules = input("Introdueix dues paraules: ")
-
-# paraules = nParaules.split()
-
-# if len(paraules) != 2: # Si la longitud és diferent de 2 direm ERROR
-#     print("ERROR, introdueix 2 paraules.")
-# else:
-#     p1
-
 
 nParaules = input("Introdueix dues paraules: ")
 
